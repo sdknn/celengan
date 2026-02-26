@@ -1,0 +1,12 @@
+{
+    "name": "sidik/celengan",
+    "description": "Sebuah aplikasi web PHP untuk melacak pengeluaran uang.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
